@@ -8,7 +8,7 @@ Taking on the role of a Data Analyst, I collaborated with the Campaign Strategy,
 
 ### Objectives of the project:
 
-- Identify the most and least successful marketing campaigns.
+- Identify the most successful marketing campaign.
 
 - Understand what the average customer looks like and how they behave.
 
@@ -40,7 +40,11 @@ Taking on the role of a Data Analyst, I collaborated with the Campaign Strategy,
 
 ## Executive Summary
 
+The analysis shows that Campaign 6 was the most successful, achieving an acceptance rate of 14.88%, more than double most previous campaigns, and performing consistently well across all income levels, particularly among high-income customers. The company’s customer base is predominantly around 45 years old, with an average income of ~$52,240, and over 50% hold a graduate degree, indicating a stable and well-educated audience. Geographically, customers are heavily concentrated in Spain, which contributes nearly 49% of total spending, followed by Saudi Arabia and Canada, highlighting these as core markets.
 
+Product performance is strongly driven by Wines and Meat Products, which together account for the vast majority of revenue. Wines lead with $679K in total spending and an average spend of $305.76 per buyer, consistently outperforming other categories across all age groups. High-value segments emerge among customers aged 45 and above, especially those 60+, who, despite smaller numbers, deliver the highest per-buyer value.
+
+Customer engagement is concentrated among Established customers, though many are dormant, indicating significant potential for reactivation. In terms of channels, in-store purchases dominate with nearly 12,950 transactions and the highest purchase frequency, while web channels show strong growth potential and catalog purchases underperform, suggesting a need for strategic reassessment.
   
 
 ## Insights Deep Dive
@@ -316,8 +320,54 @@ Catalog: 5,954 / 1,650 ≈ 3.61 purchases per buyer
 
 ## Recommendations 
 
+- Campaign 6 outperformed all others overall and across demographics, while Campaigns 5, 4, and 3 showed strengths in specific income segments. Future campaigns should build on the strategies behind Campaign 6 while adopting income-targeted approaches to maximize conversion across all customer groups.
+
+- Nearly 50% of Prometrix’s customer base and the highest total spending ($660,367) come from Spain, firmly establishing it as the company’s core market, while Saudi Arabia (15.03%) and Canada (11.95%) together account for another quarter of the base. This geographic concentration highlights both a strength and a growth opportunity — success in Spain heavily drives overall performance, and similar localized strategies in Saudi Arabia and Canada could significantly expand market reach and revenue potential.
+
+- Across Spain, Saudi Arabia, and Canada, older customers (45+, especially 60+) consistently deliver the highest average spend on Wines despite smaller buyer bases, making them a high-value segment worth expanding. In contrast, the 30–44 group drives volume but shows low per-buyer spend, particularly for Meat Products, limiting revenue potential.
+
+Focus on targeted campaigns and premium offerings to grow reach among high-spend older customers, while using upselling and cross-selling to lift transaction values in the 30–44 segment. Additionally, the strong spend from younger buyers (<30) in Canada highlights an opportunity to build early brand loyalty.
+
+- Purchases are dominated by in-store sales (≈ 5.84 purchases per buyer), confirming it as the strongest channel. The web channel shows similar reach but lower engagement (≈ 4.18), while the catalog underperforms on both reach and repeat use (≈ 3.61).
+
+Focus on boosting digital engagement with personalized offers or loyalty programs to increase repeat purchases, and reassess the catalog channel for optimization or potential resource reallocation.
+
+
 ## Clarifying Questions, Assumptions and Caveats
+
 
 ### Questions for Stakeholders Prior to Project Advancement
 
+- Clarification on the _Response_ Variable
+- 
+It is unclear whether the Response column refers to customer acceptance of the most recent campaign (Campaign 6) or of Campaign 5, which has its own separate response column.
+
+Understanding this is essential to ensure that the campaign performance analysis is interpreted correctly
+
+- Clarification on Education Categories (2n Cycle vs. Master)
+
+The dataset contains two categories under Education: “2n Cycle” and “Master.” It is not clear whether these categories represent the same level of education (e.g., postgraduate or master’s degree) and can therefore be combined, or whether they denote different education levels and should remain distinct. This clarification is necessary for accurate segmentation and interpretation of customer demographics.
+
+
 ### Assumptions and Caveats
+
+
+During data cleaning and preparation, several quality issues and ambiguities were identified. The following assumptions and decisions were made to ensure consistency and reliability in the analysis:
+
+
+- Missing Income Values:
+24 records had missing values in the income column (about 1% of the dataset). These were retained as they do not significantly affect overall trends.
+
+
+- Ambiguity in Marital Status (“Alone” vs. “Single”):
+Two categories — Alone (3 records) and Single — appeared to represent the same status. These were consolidated by mapping Alone to Single.
+
+
+- Invalid or Absurd Marital Status Entries:
+Two records contained nonsensical marital status categories (YOLO and another unclear label). These were removed due to their extremely small volume and lack of interpretability.
+
+
+- Inconsistent Education Labels:
+“2nd Cycle” and “Master’s” were identified as equivalent education levels. 201 rows labeled as “2nd Cycle” were standardized to “Master’s” for consistency.
+
+
