@@ -53,6 +53,12 @@ Customer engagement is concentrated among Established customers, though many are
 
 The sixth and most recent campaign was the most successful, achieving an acceptance rate of 14.88%, significantly outperforming all previous campaigns. It was followed by Campaign 4 with a 7.46% acceptance rate, while Campaigns 3 and 5 both recorded 7.28%. The least successful was Campaign 2, with an acceptance rate of just 1.34%, indicating minimal customer engagement.
 
+
+<p align="center">
+  <img src="images/Campaign Performance.png" alt="Campaign Performance" width="500"/>
+</p>
+
+
 When segmented by demographics, Campaign 6 consistently outperformed all others across every age group, while Campaign 2 remained the weakest performer across the board.
 
 Breaking the results down by income levels highlights more nuanced patterns:
@@ -62,6 +68,16 @@ High-income customers: Campaigns 6 (23.37%) and 5 (21.60%) achieved nearly ident
 Mid-income customers: Campaign 6 (10.15%) led, followed by Campaign 4 (8.39%), which performed comparatively well in this segment.
 
 Low-income customers: Campaign 6 (11.32%) again outperformed, followed by Campaign 3 (8.29%).
+
+
+
+<p align="center">
+  <img src="images/High Income Campaign Performance.png" alt="Chart 1" width="350" />
+  <img src="images/Mid Income Campaign Performance.png" alt="Chart 2" width="350" />
+  <img src="images/Low Income Campaign Performance.png" alt="Chart 3" width="350" />
+</p>
+
+
 
 
 While Campaign 6 demonstrated broad effectiveness across all customer groups, other campaigns showed segment-specific strengths — Campaign 5 with high-income customers, Campaign 4 with mid-income customers, and Campaign 3 with low-income customers. This suggests that future campaigns could benefit from targeted segmentation strategies tailored to income levels to maximize overall conversion rates.
@@ -80,6 +96,12 @@ Other countries such as **Australia, India, Germany, and the USA represent small
 This indicates that Spain is the company’s core market, and strategies tailored to its customers will likely yield the greatest impact, while emerging markets may offer room for targeted growth.
 
 
+<p align="center">
+  <img src="images/CP-Geographic Profile.png" alt="Campaign Performance" width="500"/>
+</p>
+
+
+
 **Income distribution over time**
 
 The income profile of new customers shows both consistency and subtle shifts in engagement patterns over the three-year period.
@@ -89,6 +111,12 @@ The income profile of new customers shows both consistency and subtle shifts in 
 **2013:** Customer acquisition peaked across all income groups, led by mid-income customers (414). The low-income group (395) and high-income group (378) also saw significant growth, reflecting strong campaign effectiveness and broad market appeal during this period.
 
 **2014:** Acquisition declined across all segments, with high-income customers (197) forming the largest group, followed by low-income (195) and mid-income (164) customers. The slowdown may suggest reduced campaign impact or market saturation, though the rising share of high-income customers hints at evolving engagement dynamics.
+
+
+<p align="center">
+  <img src="images/CP-Income Distribution over time.png" alt="Campaign Performance" width="500"/>
+</p>
+
 
 Mid-income customers remained the most consistently acquired segment throughout the three years, underscoring their status as a highly engaged and strategically valuable demographic. However, the noticeable growth in high-income customers by 2014 suggests a gradual shift in the customer composition toward more affluent segments — a trend that could influence future marketing and product positioning strategies.
 
@@ -102,6 +130,14 @@ The age distribution of newly acquired customers highlights a consistently stron
 
 **2014:** Although overall acquisition declined, the 30–44 age group (190) remained the largest segment, followed by 45–59 (144). Customers under 30 (48) and over 60 (74) continued to make up smaller shares of new signups.
 
+
+
+<p align="center">
+  <img src="images/CP-Age Distribution Over Time.png" alt="Campaign Performance" width="500"/>
+</p>
+
+
+
 Across all three years, the 30–59 age range consistently dominated new acquisitions, highlighting the company’s strong appeal to mid-career individuals with higher purchasing power and stable income. This demographic represents a strategically important target group for future marketing and retention efforts.
 
 **Education trends over time**
@@ -114,6 +150,12 @@ The customer base has consistently been highly educated, and this trend has stre
 
 **2014:** Although total acquisition fell to 556, the customer base remained highly qualified. The proportion of PhD holders (136) was nearly equal to that of Master’s graduates (137), indicating a continued shift toward an even more highly educated profile despite the slowdown in total new customers.
 
+
+<p align="center">
+  <img src="images/campaign_performance.png" alt="Education Dist" width="500"/>
+</p>
+
+
 Across all three years, customers with graduate or higher degrees consistently dominated new acquisitions. The sustained presence of Master’s and PhD holders highlights the company’s strong resonance with an educated audience — suggesting that products and campaigns are particularly attractive to individuals with advanced qualifications.
 
 **Marital Status Trends over time**
@@ -125,6 +167,13 @@ The marital status profile of new customers shows a consistent dominance of hous
 **2013:** Customer acquisition peaked at 1,187 new customers. Married individuals (452) continued to dominate, while the living together group grew significantly to 314, and single customers (253) also formed a notable portion of new signups. The divorced (131) and widowed (37) segments expanded too, reflecting broader engagement across different household structures during this high-growth year.
 
 **2014:** Acquisition slowed to 555 new customers, but married customers (223) still formed the largest group, followed by those living together (138) and single customers (123). The divorced (52) and widowed (19) groups remained smaller but stable. Despite the slowdown in overall acquisition, the trend of household-oriented customers being the most responsive segment persisted.
+
+
+<p align="center">
+  <img src="images/CP-Marital Status Distribution.png" alt="Campaign Performance" width="500"/>
+</p>
+
+
 
 Married and cohabiting customers consistently represent the largest share of new acquisitions, highlighting the importance of household dynamics in shaping purchasing decisions. Targeting these segments with tailored messaging and offers could strengthen customer engagement and retention.
 
@@ -141,6 +190,15 @@ An analysis of customer activity reveals that the company’s customer base is h
 
 **Lost Customers (197):** Although the smallest group, these are mostly long-term customers who have stopped engaging, indicating a degree of churn. Analyzing their behavior could provide insights into retention challenges.
 
+
+
+<p align="center">
+  <img src="images/CP-Customer Activity .png" alt="Campaign Performance" width="500"/>
+</p>
+
+
+
+
 While the company benefits from a strong base of Established customers, the variation in engagement levels highlights key opportunities. Reviving Dormant and Warm segments through targeted reactivation efforts and nurturing new customers toward loyalty could significantly improve retention and lifetime value.
 
 
@@ -152,6 +210,14 @@ While **Gold Products** contribute a comparatively modest **$98,274 in total spe
 
 Other categories, such as **Fish Products, Fruits, and Sweet Products, lag behind in both total spending and customer value**, contributing less than $85,000 each with average spends ranging between $32 and $45. These underperforming segments currently add limited revenue impact and may require targeted marketing initiatives, product differentiation, or strategic bundling to enhance their performance and customer appeal.
 
+
+<p align="center">
+  <img src="images/PP-Categorywise Spent.png" alt="Campaign Performance" width="500"/>
+</p>
+
+
+
+
 **Country wise Analysis**
 
 **Spain**
@@ -161,6 +227,14 @@ In Spain, total customer spending over the last two years is heavily concentrate
 Both Wines and Meat Products reach similarly wide audiences — with 1,088 and 1,093 customers respectively — yet Wines significantly outperform Meat in terms of customer value, generating an average spend of approximately $310 per buyer compared to Meat’s $163. This difference highlights Wines as the company’s most lucrative product line in the Spanish market, nearly doubling revenue despite similar customer reach.
 
 Among lower-performing categories, Fish Products stand out slightly with higher total spending than Fruits and Sweets. Additionally, both Gold and Fish Products attract relatively large buyer bases (1,065 buyers for Gold) but yield lower average spend per customer, indicating strong customer interest but smaller transaction sizes. These categories may offer opportunities for upselling or product bundling to boost per-customer revenue.
+
+
+
+<p align="center">
+  <img src="images/PP-SpainAnalysis.png" alt="Campaign Performance" width="500"/>
+</p>
+
+
 
 **Age wise spending**
 
@@ -197,6 +271,17 @@ The 30–44 segment drives the most meat revenue ($59,825) purely through volume
 
 **Younger (<30):** small reach; moderate value in meat vs. wine → lower strategic priority.
 
+
+<p align="center">
+  <img src="images/PP-SpainAnalysis_lessthan30.png" alt="Chart 1" width="250" />
+  <img src="images/PP-SpainAnalysis_30-44.png" alt="Chart 2" width="250" />
+  <img src="images/PP-SpainAnalysis_45-59.png" alt="Chart 3" width="250" />
+   <img src="images/PP-SpainAnalysis_60+.png" alt="Chart 4" width="250" />
+</p>
+
+
+
+
 **Saudi Arabia**
 
 Customer spending in Saudi Arabia reveals a clear preference for Wines and Meat Products, which together make up the majority of total revenue. Wines lead the market with $105,910 in total spending from 334 buyers, translating to an impressive average spend of $317.10 per customer. Meat Products follow as the second most significant category, generating $58,393 from 336 buyers with an average spend of $173.79.
@@ -204,6 +289,14 @@ Customer spending in Saudi Arabia reveals a clear preference for Wines and Meat 
 Despite having a buyer base nearly identical in size, Wines deliver almost double the revenue per customer compared to Meat Products — highlighting strong willingness to pay and positioning Wines as a premium, high-value product segment with substantial revenue potential.
 
 Lower-performing categories such as Fish Products ($13,663 from 272 buyers) and Gold Products ($15,127 from 329 buyers) demonstrate moderate customer engagement but significantly lower average spend per buyer, suggesting opportunities for upselling, premium packaging, or repositioning strategies. Meanwhile, Sweet Products and Fruits trail behind in both total revenue and customer value, reflecting limited investment and lower consumer priority in these segments.
+
+
+<p align="center">
+  <img src="images/PP-SaudiArabia.png" alt="Campaign Performance" width="500"/>
+</p>
+
+
+
 
 **Age wise spending**
 
@@ -229,6 +322,13 @@ Meat averages are lower and flatter:
 - **Younger (<30):** small reach; moderate value in meat vs wine → lower priority.
 
 
+<p align="center">
+  <img src="images/PP-SaudiArabia_lessthan30.png" alt="Chart 1" width="250" />
+  <img src="images/PP-SaudiArabiaAnalysis_30-44.png" alt="Chart 2" width="250" />
+  <img src="" alt="SaudiArabia Age Analysis" width="250" />
+</p>
+
+
 **Canada**
 
 In Canada,  again customer spending is heavily concentrated in Wines and Meat Products, which together account for nearly 80% of the country’s total revenue. Wines lead with $84,327 (51.4%), followed by Meat Products with $46,098 (28.1%), underscoring their dominance in the product portfolio. The next tier consists of Gold Products ($12,241, 7.5%) and Fish Products ($10,024, 6.1%), while Fruits ($7,743, 4.7%) and Sweet Products ($7,675, 4.7%) remain the smallest contributors.
@@ -236,6 +336,13 @@ In Canada,  again customer spending is heavily concentrated in Wines and Meat Pr
 Buyer reach is relatively consistent across top categories, with Meat (267 buyers) and Wines (266 buyers) attracting nearly identical customer counts, followed closely by Gold (256 buyers). Despite this similar reach, Wines generate significantly higher revenue per customer, with an average spend of $317 compared to $172 for Meat, highlighting the premium value and revenue efficiency of the wine category.
 
 Among lower-performing segments, Gold and Fish Products demonstrate notable buyer engagement but a lower average spend, suggesting frequent but smaller purchases and potential opportunities for upselling or product bundling. Meanwhile, Fruits and Sweet Products, despite comparable buyer reach, contribute minimally to total revenue, reflecting their limited strategic impact and indicating a need for targeted interventions to boost their performance.
+
+
+<p align="center">
+  <img src="images/PP-CanadaAnalysis.png" alt="Campaign Performance" width="500"/>
+</p>
+
+
 
 **Age wise spending**
 
@@ -275,6 +382,17 @@ The 30–44 and 45–59 segments contribute the most meat revenue ($17,202 and $
 
 **Younger (<30):** small segment but surprisingly strong per-buyer spend on both wine and meat → potential for early brand loyalty strategies.
 
+
+<p align="center">
+  <img src="images/PP-Canada_lessthan30.png" alt="Chart 1" width="250" />
+  <img src="images/PP-CanadaAnalysis_30-44.png" alt="Chart 2" width="250" />
+  <img src="images/PP-CanadaAnalysis-45-59.png" alt="Chart 3" width="250" />
+   <img src="images/PP-CanadaAnalysis-60plus.png" alt="Chart 3" width="250" />
+  
+</p>
+
+
+
 ### Channel Performance 
 
 **Purchase Volume**
@@ -282,6 +400,12 @@ The 30–44 and 45–59 segments contribute the most meat revenue ($17,202 and $
 Customer purchase behavior is overwhelmingly dominated by in-store transactions, which account for 12,950 purchases, firmly establishing physical stores as the company’s most utilized sales channel. The web channel follows with 9,129 purchases, reflecting strong digital engagement and highlighting the growing importance of online sales, though it still trails behind traditional retail. Catalog purchases remain the least preferred option, with 5,954 transactions, representing less than half the volume of in-store purchases.
 
 This distribution indicates that while traditional retail remains the primary driver of sales, online channels are playing a significant role and represent a substantial portion of overall transactions. The notably lower use of catalog purchases suggests this channel is underperforming and may require strategic reassessment — either optimization or reallocation of resources.
+
+
+<p align="center">
+  <img src="images/Channel_Performance_ChannelWisePerformance.png" alt="Campaign Performance" width="500"/>
+</p>
+
 
 
 **Buyers and Engagement**
@@ -297,9 +421,13 @@ Catalog: 1,650 buyers
 Store and Web have comparable reach, highlighting strong adoption of both physical and digital channels. In contrast, the Catalog channel has the smallest buyer base, pointing to limited reach and engagement potential.
 
 
-**Engagement (purchases per buyer)**
+<p align="center">
+  <img src="images/ChannelPerformance_ChannelWiseBuyers.png" alt="Campaign Performance" width="500"/>
+</p>
 
- Using your totals (Store 12,950, Web 9,129, Catalog 5,954):
+
+
+**Engagement (purchases per buyer)**
 
 
 Store: 12,950 / 2,220 ≈ 5.84 purchases per buyer
@@ -339,7 +467,7 @@ Focus on boosting digital engagement with personalized offers or loyalty program
 ### Questions for Stakeholders Prior to Project Advancement
 
 - Clarification on the _Response_ Variable
-- 
+  
 It is unclear whether the Response column refers to customer acceptance of the most recent campaign (Campaign 6) or of Campaign 5, which has its own separate response column.
 
 Understanding this is essential to ensure that the campaign performance analysis is interpreted correctly
