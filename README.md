@@ -273,10 +273,10 @@ The 30–44 segment drives the most meat revenue ($59,825) purely through volume
 
 
 <p align="center">
-  <img src="images/PP-SpainAnalysis_lessthan30.png" alt="Chart 1" width="250" />
-  <img src="images/PP-SpainAnalysis_30-44.png" alt="Chart 2" width="250" />
-  <img src="images/PP-SpainAnalysis_45-59.png" alt="Chart 3" width="250" />
-   <img src="images/PP-SpainAnalysis_60+.png" alt="Chart 4" width="250" />
+  <img src="images/PP-SpainAnalysis_lessthan30.png" alt="Chart 1" width="350" />
+  <img src="images/PP-SpainAnalysis_30-44.png" alt="Chart 2" width="350" />
+  <img src="images/PP-SpainAnalysis_45-59.png" alt="Chart 3" width="350" />
+   <img src="images/PP-SpainAnalysis_60+.png" alt="Chart 4" width="350" />
 </p>
 
 
@@ -323,8 +323,8 @@ Meat averages are lower and flatter:
 
 
 <p align="center">
-  <img src="images/PP-SaudiArabia_lessthan30.png" alt="Chart 1" width="250" />
-  <img src="images/PP-SaudiArabiaAnalysis_30-44.png" alt="Chart 2" width="250" />
+  <img src="images/PP-SaudiArabia_lessthan30.png" alt="Chart 1" width="350" />
+  <img src="images/PP-SaudiArabiaAnalysis_30-44.png" alt="Chart 2" width="350" />
   <img src="" alt="SaudiArabia Age Analysis" width="250" />
 </p>
 
@@ -384,10 +384,10 @@ The 30–44 and 45–59 segments contribute the most meat revenue ($17,202 and $
 
 
 <p align="center">
-  <img src="images/PP-Canada_lessthan30.png" alt="Chart 1" width="250" />
-  <img src="images/PP-CanadaAnalysis_30-44.png" alt="Chart 2" width="250" />
-  <img src="images/PP-CanadaAnalysis-45-59.png" alt="Chart 3" width="250" />
-   <img src="images/PP-CanadaAnalysis-60plus.png" alt="Chart 3" width="250" />
+  <img src="images/PP-Canada_lessthan30.png" alt="Chart 1" width="350" />
+  <img src="images/PP-CanadaAnalysis_30-44.png" alt="Chart 2" width="350" />
+  <img src="images/PP-CanadaAnalysis-45-59.png" alt="Chart 3" width="350" />
+   <img src="images/PP-CanadaAnalysis-60plus.png" alt="Chart 3" width="350" />
   
 </p>
 
