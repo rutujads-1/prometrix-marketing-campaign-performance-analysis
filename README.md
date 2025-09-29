@@ -2,7 +2,7 @@
 
 ## Project Background 
 
-Prometrix Marketing is a fictitious marketing agency that partners with retail brands to design and deliver targeted campaigns. The dataset used in this project contains marketing campaign data for 2,240 customers, including customer profiles, product preferences, spending patterns, campaign performance, and channel engagement.
+Prometrix Marketing, a fictitious marketing agency, partners with retail brands to design and deliver targeted campaigns. The dataset used in this project, sourced from Maven Analytics, contains marketing campaign data for 2,240 customers, including customer profiles, product preferences, spending patterns, campaign performance, and channel engagement.
 
 Taking on the role of a Data Analyst, I collaborated with the Campaign Strategy, Customer Insights, and Product Performance teams to analyze this data and uncover insights that drive smarter decision-making.
 
@@ -25,7 +25,7 @@ Taking on the role of a Data Analyst, I collaborated with the Campaign Strategy,
 
 - Number of Buyers
 
-- Averagr spend per buyer
+- Average spend per buyer
 
 ### Tools & Technologies
 
