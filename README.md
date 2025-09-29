@@ -325,7 +325,9 @@ Meat averages are lower and flatter:
 <p align="center">
   <img src="images/PP-SaudiArabia_lessthan30.png" alt="Chart 1" width="350" />
   <img src="images/PP-SaudiArabiaAnalysis_30-44.png" alt="Chart 2" width="350" />
-  <img src="" alt="SaudiArabia Age Analysis" width="250" />
+  <img src="images/PP-SaudiArabiaAnalysis_45-59.png" alt="SaudiArabia Age Analysis" width="350" />
+  <img src="images/PP-SaudiArabiaAnalysis_60plus.png" alt="SaudiArabia Age Analysis" width="350" />
+  
 </p>
 
 
@@ -494,8 +496,17 @@ Two categories — Alone (3 records) and Single — appeared to represent the sa
 - Invalid or Absurd Marital Status Entries:
 Two records contained nonsensical marital status categories (YOLO and another unclear label). These were removed due to their extremely small volume and lack of interpretability.
 
+<p align="center">
+  <img src="images/YOLO_records.png" alt="Campaign Performance" width="800"/>
+</p>
+
+
 
 - Inconsistent Education Labels:
 “2nd Cycle” and “Master’s” were identified as equivalent education levels. 201 rows labeled as “2nd Cycle” were standardized to “Master’s” for consistency.
+
+<p align="center">
+  <img src="images/2n Cycle and Masters Same.png" alt="Campaign Performance" width="500"/>
+</p>
 
 
