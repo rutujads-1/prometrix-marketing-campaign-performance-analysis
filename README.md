@@ -213,7 +213,7 @@ Other categories, such as **Fish Products, Fruits, and Sweet Products, lag behin
 
 
 <p align="center">
-  <img src="images/PP-Categorywise Spent.png" alt="Campaign Performance" width="500"/>
+  <img src="images/Share of Total Spending by Category.png" alt="Campaign Performance" width="500"/>
 </p>
 
 
