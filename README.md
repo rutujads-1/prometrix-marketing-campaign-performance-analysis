@@ -122,18 +122,19 @@ Mid-income customers remained the most consistently acquired segment throughout 
 
 **Age distribution over time**
 
-The age distribution of newly acquired customers highlights a consistently strong presence of mid-career individuals, with the 30–59 age range dominating signups throughout the three years.
+The age profile of newly acquired customers from 2012 to 2014 highlights a consistent dominance of mid-career individuals, particularly those aged 30–59, who make up the bulk of new signups each year.
 
-**2012:** The majority of new customers came from the 30–44 age group (181), followed by the 45–59 segment (155). Younger customers under 30 (76) and older customers over 60 (80) represented smaller portions of the new customer base but were still present in meaningful numbers.
+**2012:** The majority of new customers were aged 30–44 (210), followed by 45–59 (168). Younger customers under 30 (59) and older customers 60+ (55) represented smaller portions but were still present in meaningful numbers.
 
-**2013:** Customer acquisition peaked across all age groups, once again led by the 30–44 cohort (497), followed by 45–59 (397). Both younger customers under 30 (144) and older customers over 60 (149) reached their highest levels during this period, reflecting a broader expansion of the customer base.
+**2013:** Acquisition peaked across all age groups, led by the 30–44 segment with 497 new customers and 45–59 with 397. Younger customers under 30 (110) and those over 60 (183) also reached their highest levels, showing broader appeal during this growth year.
 
-**2014:** Although overall acquisition declined, the 30–44 age group (190) remained the largest segment, followed by 45–59 (144). Customers under 30 (48) and over 60 (74) continued to make up smaller shares of new signups.
+**2014:** Although overall acquisition declined, the 30–44 group (234) remained the largest, followed by 45–59 (192). Customers under 30 (52) and 60+ (78) continued to account for smaller shares.
+
 
 
 
 <p align="center">
-  <img src="images/CP-Age Distribution Over Time.png" alt="Campaign Performance" width="500"/>
+  <img src="images/Age Distribution Over the Years.png" alt="Campaign Performance" width="500"/>
 </p>
 
 
@@ -152,7 +153,7 @@ The customer base has consistently been highly educated, and this trend has stre
 
 
 <p align="center">
-  <img src="images/campaign_performance.png" alt="Education Dist" width="500"/>
+  <img src="images/Education_Status_Distribution.png" alt="Education Dist" width="500"/>
 </p>
 
 
