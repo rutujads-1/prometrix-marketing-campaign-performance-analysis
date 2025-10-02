@@ -106,7 +106,7 @@ This indicates that Spain is the company’s core market, and strategies tailore
 
 The income profile of new customers shows both consistency and subtle shifts in engagement patterns over the three-year period.
 
-**2012:** A total of 492 new customers joined, with mid-income individuals (161) forming the largest segment. They were closely followed by low-income (170) and high-income (161) customers, indicating a balanced acquisition profile across income levels in the early stage.
+**2012:** A total of 492 new customers joined, with low-income individuals (170) forming the largest segment, while mid-income (161) and high-income (161) customers were equal in number, indicating a balanced acquisition profile across income levels in the early stage.
 
 **2013:** Customer acquisition peaked across all income groups, led by mid-income customers (414). The low-income group (395) and high-income group (378) also saw significant growth, reflecting strong campaign effectiveness and broad market appeal during this period.
 
@@ -114,7 +114,7 @@ The income profile of new customers shows both consistency and subtle shifts in 
 
 
 <p align="center">
-  <img src="images/CP-Income Distribution over time.png" alt="Campaign Performance" width="500"/>
+  <img src="images/Income Range Distribution Over Time.png" alt="Campaign Performance" width="500"/>
 </p>
 
 
@@ -134,7 +134,7 @@ The age profile of newly acquired customers from 2012 to 2014 highlights a consi
 
 
 <p align="center">
-  <img src="images/Age Distribution Over the Years.png" alt="Campaign Performance" width="500"/>
+  <img src="images/Age Dist Over time.png" alt="Campaign Performance" width="500"/>
 </p>
 
 
@@ -171,7 +171,7 @@ The marital status profile of new customers shows a consistent dominance of hous
 
 
 <p align="center">
-  <img src="images/CP-Marital Status Distribution.png" alt="Campaign Performance" width="500"/>
+  <img src="images/Marital Status Dist Over time.png" alt="Campaign Performance" width="500"/>
 </p>
 
 
@@ -194,7 +194,7 @@ An analysis of customer activity reveals that the company’s customer base is h
 
 
 <p align="center">
-  <img src="images/CP-Customer Activity .png" alt="Campaign Performance" width="500"/>
+  <img src="images/Cust Activity .png" alt="Campaign Performance" width="500"/>
 </p>
 
 
@@ -406,7 +406,7 @@ This distribution indicates that while traditional retail remains the primary dr
 
 
 <p align="center">
-  <img src="images/Channel_Performance_ChannelWisePerformance.png" alt="Campaign Performance" width="500"/>
+  <img src="images/ChannelPerf-Channel wise Purchases.png" alt="Campaign Performance" width="500"/>
 </p>
 
 
@@ -425,7 +425,7 @@ Store and Web have comparable reach, highlighting strong adoption of both physic
 
 
 <p align="center">
-  <img src="images/ChannelPerformance_ChannelWiseBuyers.png" alt="Campaign Performance" width="500"/>
+  <img src="images/ChannelPerf- Channel Wise Buyers.png" alt="Campaign Performance" width="500"/>
 </p>
 
 
